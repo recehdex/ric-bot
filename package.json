@@ -1,0 +1,10 @@
+{
+  "name": "ric-bot-github-actions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RIC arbitrage bot for scheduled GitHub Actions execution",
+  "main": "ric-bot-cron.js",
+  "dependencies": {
+    "ethers": "5.7.2"
+  }
+}
